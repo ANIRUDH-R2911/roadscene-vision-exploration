@@ -6,3 +6,5 @@ We train and evaluate both models on the same dataset and class definitions (per
 Due to the size of the trained semantic segmnetation model, instead of adding it to the repo, it can be found in this drive link: https://drive.google.com/file/d/123k73Nk4xL33ZkLDiYGdR1RE-nE0wOWN/view?usp=sharing
 
 The Image extraction file contains the code for downloading the images from the parquet files provided by Waymo's open source dataset.
+
+The object detection best.pt file is the trained Yolov8s model
