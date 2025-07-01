@@ -1,9 +1,5 @@
 # EXPLORING OBJECT DETECTION AND SEMANTIC SEGMENTATION ON ROAD SCENE DATASET
 <details>
-This project provides a comparative study of two leading computer vision approaches, object detection and semantic segmentation, using YOLOv8 and U-Net on urban road scene images. The dataset is derived from the Waymo Open Dataset, with images extracted from parquet files and annotated using Roboflow for both pixel-wise segmentation masks and bounding box labels.
-
-We train and evaluate both models on the same dataset and class definitions (person, sign board, traffic light, and vehicle) to analyze trade-offs in accuracy, speed, and scene detail.
-
 Due to the size of the trained semantic segmnetation model, instead of adding it to the repo, it can be found in this drive link: https://drive.google.com/file/d/123k73Nk4xL33ZkLDiYGdR1RE-nE0wOWN/view?usp=sharing
 
 The Image extraction file contains the code for downloading the images from the parquet files provided by Waymo's open source dataset.
@@ -13,7 +9,7 @@ The object detection best.pt file is the trained Yolov8s model
 
 
 ## Overview  
-This project explores two foundational deep learning approaches in computer vision—**object detection (YOLOv8)** and **semantic segmentation (U-Net)**—for understanding urban road scenes in the context of autonomous vehicles. Using a common dataset extracted from the **Waymo Open Dataset**, both models were trained and evaluated on identical image samples and class definitions: `Person`, `Vehicle`, `Traffic Light`, and `Sign Board`.
+This project explores two foundational deep learning approaches in computer vision, **object detection (YOLOv8)** and **semantic segmentation (U-Net)**, for understanding urban road scenes in the context of autonomous vehicles. Using a common dataset extracted from the **Waymo Open Dataset**, both models were trained and evaluated on identical image samples and class definitions: `Person`, `Vehicle`, `Traffic Light`, and `Sign Board`.
 
 Our goal is to highlight each model’s capabilities and limitations through quantitative metrics and visual analysis, enabling informed decisions for real-world intelligent transportation applications.
 
