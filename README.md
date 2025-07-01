@@ -51,5 +51,5 @@ Our goal is to highlight each model’s capabilities and limitations through qua
 ## Acknowledgments  
 - **Waymo Open Dataset** for real-world autonomous vehicle imagery  
 - **Ultralytics YOLOv8** framework for object detection  
-- **Roboflow** for annotation, dataset export, and augmentation pipelines  
+- **Roboflow** for annotation, dataset export, and augmentation 
 - **Purdue University** – CE562: Vehicular Cyber-Physical Systems course  
