@@ -11,9 +11,6 @@ The Image extraction file contains the code for downloading the images from the 
 The object detection best.pt file is the trained Yolov8s model
 </details>
 
-# RoadScene Vision Exploration  
-**A Comparative Study of YOLOv8 and U-Net on Urban Driving Scenes**
-
 
 ## Overview  
 This project explores two foundational deep learning approaches in computer vision—**object detection (YOLOv8)** and **semantic segmentation (U-Net)**—for understanding urban road scenes in the context of autonomous vehicles. Using a common dataset extracted from the **Waymo Open Dataset**, both models were trained and evaluated on identical image samples and class definitions: `Person`, `Vehicle`, `Traffic Light`, and `Sign Board`.
