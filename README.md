@@ -48,8 +48,5 @@ Our goal is to highlight each model’s capabilities and limitations through qua
 - **Model optimization**: Exploring lightweight variants and hybrid designs for real-time deployment on embedded systems.
 
 
-## Acknowledgments  
-- **Waymo Open Dataset** for real-world autonomous vehicle imagery  
-- **Ultralytics YOLOv8** framework for object detection  
-- **Roboflow** for annotation, dataset export, and augmentation 
+## Course  
 - **Purdue University** – CE 56201: Vehicular Cyber-Physical Systems course  
